@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none" role="img" aria-label="AnaGlynn AI Logo">
+  <!-- Stylized A  legs (light for dark UI) -->
+  <path
+    d="M52 168 C52 168 88 48 100 32 C112 48 148 168 148 168"
+    stroke="#F4F6F5"
+    stroke-width="28"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    fill="none"
+  />
+  <!-- Green apex dot -->
+  <circle cx="100" cy="28" r="14" fill="#3FE0A0" />
+  <!-- Heartbeat / ECG crossbar -->
+  <path
+    d="M38 108 H78 L92 78 L108 132 L122 108 H162"
+    stroke="#3FE0A0"
+    stroke-width="12"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    fill="none"
+  />
+</svg>
