@@ -1,0 +1,23 @@
+{
+  "name": "AnaGlynn AI",
+  "short_name": "AnaGlynn",
+  "description": "AI release companion for independent artists — clarity, not confusion.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0C0E0D",
+  "theme_color": "#0C0E0D",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
